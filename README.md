@@ -1,2 +1,2 @@
 # CODSOFT
-This is a repository for my internship projects related wth CodSoft.
+This is a repository for my internship projects under CodSoft.
